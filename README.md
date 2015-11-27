@@ -1,4 +1,4 @@
-# QrCodeScan
+# FastQrCodeScan
 Android二维码扫描库
 
 一、说明
